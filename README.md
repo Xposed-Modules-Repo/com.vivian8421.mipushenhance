@@ -33,3 +33,36 @@ Thanks [@Soulpursuit](https://github.com/soulpursuit)  for providing the project
 
 [Report Bug](https://github.com/vivian8421/MiPush-Enhance/issues)
 ## [酷安@vivian8421]
+
+
+
+
+
+ # Xiaomi push enhancement module
+
+> Enable module -- > freeze app -- > mipush notification (- - > Open app -- > Click to enter notification)
+
+>As we all know, in order to prevent the app background from residing in memory through malicious behavior, some users choose to use frozen software to disable the app. When the app is disabled, its package or component is unavailable. However, in this case, some necessary notifications will be affected (Alipay, dingtalk, bank, stock, etc...)
+
+> 
+
+#### This module is designed for this purpose. When the app is frozen, it can receive the push of all kinds of apps, so that you can receive push messages lightly without consuming memory and ensuring privacy, so that you will no longer miss the dynamic account and transaction messages, and welfare activities will no longer be delayed!
+
+> Fully compatible pm disable and other frozen apps!
+
+> Note: time and technology are limited. At present, we can only receive messages. For the time being, we can't click the notification to pull up the frozen app. We need to manually enter the app and click the notification to view it. We welcome all great gods PR and good people to give advice~
+
+> Note: This module is completely free and open source. All development is for learning reference only. Do not use it for illegal purposes.
+
+> Applicable model / environment: Xiaomi MIUI series model ROM + magisk.
+
+#### Note: it is not recommended to use the simplified or modified customized system . If you freeze some key system apps , please use it with caution.
+
+## Method of use
+
+1. Confirm that the version of "Xiaomi service framework" in the application list is 5.3.1 and above. (please try the lower version by yourself, and it is not guaranteed that it can be used normally)
+
+2. Scope check: system framework and Xiaomi service framework. （com.xiaomi.xmsf）
+
+3. To modify the system framework, you need to restart the mobile phone, modify the Xiaomi service framework separately and stop its operation.
+
