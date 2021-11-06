@@ -19,9 +19,10 @@
 
 #### 注意:不建议精简或者修改版定制系统使用(可能会卡米)。如果您冻结了部分关键系统app或者破解卡米,请谨慎使用(可能会卡米或者第二屏)。
 ## 使用方法
-1. 确认应用列表中"小米服务框架" 版本为：5.3.1及以上。 （低版本请自行尝试，不保证可以正常使用）
+~~1. 确认应用列表中"小米服务框架" 版本为：5.3.1及以上。 （低版本请自行尝试，不保证可以正常使用）~~
 2. 作用域勾选：系统框架 、小米服务框架。（com.xiaomi.xmsf）
 3. 修改系统框架需要重启手机，单独修改小米服务框架停止其运行即可。
+4. 手机管家App处于正常状态(非冻结/卸载/版本过低)
 
 ## Thanks
 
@@ -60,7 +61,7 @@ Thanks [@Soulpursuit](https://github.com/soulpursuit)  for providing the project
 
 ## Method of use
 
-1. Confirm that the version of "Xiaomi service framework" in the application list is 5.3.1 and above. (please try the lower version by yourself, and it is not guaranteed that it can be used normally)
+~~1. Confirm that the version of "Xiaomi service framework" in the application list is 5.3.1 and above. (please try the lower version by yourself, and it is not guaranteed that it can be used normally)~~
 
 2. Scope check: system framework and Xiaomi service framework. （com.xiaomi.xmsf）
 
